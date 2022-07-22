@@ -13,8 +13,8 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> Welcome to KV's Emoji Store 💁</p>
-          <p className="sub-text">The only emoji store that accepts sh*tcoins 💸</p>
+          <p className="header"> Welocme to Wizarding World ☄</p>
+          <p className="sub-text">Here we accept Wizcoins 💸</p>
         </header>
 
         <main>
